@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StructProperty">
+  <TheStats>
+    <RichCurveKeyStruct>
+      <ValueOffset>0</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value>00-00-00</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>3000</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>80</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>0</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>0</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>0</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfDouble">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>0</Index>
+      <PropertyName>RichCurveKey</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType />
+      <Flag>0</Flag>
+    </RichCurveKeyStruct>
+  </TheStats>
+  <TheSubs />
+  <Index>3</Index>
+  <NameString>RichCurveKey</NameString>
+  <SubTypeString>RichCurveKey</SubTypeString>
+  <isTerminated>false</isTerminated>
+  <Trail>false</Trail>
+</CoreItem>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StructProperty">
+  <TheStats>
+    <IntProperty>
+      <ValueOffset>1744</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfInt32">
+          <Value>99</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>0</Index>
+      <PropertyName>MaxStackCount</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>IntProperty</PropertyType>
+      <Flag>0</Flag>
+    </IntProperty>
+  </TheStats>
+  <TheSubs />
+  <Index>0</Index>
+  <NameString>StackingInfo</NameString>
+  <SubTypeString>ItemStackingInfo</SubTypeString>
+  <isTerminated>true</isTerminated>
+  <Trail>false</Trail>
+</CoreItem>

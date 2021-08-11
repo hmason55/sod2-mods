@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StructProperty">
+  <TheStats>
+    <BoolProperty>
+      <ValueOffset>2370</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>1</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>0</Index>
+      <PropertyName>bRequired</PropertyName>
+      <PropertyType>BoolProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <BoolProperty>
+      <ValueOffset>2396</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>1</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>1</Index>
+      <PropertyName>bCanLead</PropertyName>
+      <PropertyType>BoolProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <BoolProperty>
+      <ValueOffset>2422</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>2</Index>
+      <PropertyName>bCanBeFiller</PropertyName>
+      <PropertyType>BoolProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <BoolProperty>
+      <ValueOffset>2448</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>3</Index>
+      <PropertyName>bRecruitable</PropertyName>
+      <PropertyType>BoolProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <ObjectProperty>
+      <ValueOffset>2474</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="LinkDataObject">
+          <ExportString>MatureSurvivor</ExportString>
+        </DataObject>
+      </ValueArray>
+      <Index>4</Index>
+      <PropertyName>Schema</PropertyName>
+      <PropertyType>ObjectProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </ObjectProperty>
+  </TheStats>
+  <TheSubs />
+  <Index>0</Index>
+  <NameString>EnclaveMember</NameString>
+  <SubTypeString>EnclaveMember</SubTypeString>
+  <isTerminated>true</isTerminated>
+  <Trail>false</Trail>
+</CoreItem>
