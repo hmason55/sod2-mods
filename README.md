@@ -20,6 +20,7 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 ## Improved Stacking
 - Vehicle refuel stack increased from 1 to 3.
 - Vehicle repair kit stack increased from 1 to 3.
+- Vehicle advanced repair kit stack increased from 1 to 3.
 - Parts stack increased from 99 to 999.
 
 ## Minimal Base Requirements
