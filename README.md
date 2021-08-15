@@ -15,7 +15,6 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ## Bigger Pockets
 - Default pocket slots increased from 2 to 4.
-- Maximum pocket slots increased from 4 to 6.
 
 ## Improved Stacking
 - Vehicle refuel stack increased from 1 to 3.
