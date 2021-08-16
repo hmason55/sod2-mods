@@ -30,11 +30,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-## Better Pockets
-<div id="better_pockets"></div>
-<script>
-  getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=README.md', '#better_pockets');
-</script>
+## Bigger Pockets
+<div class="highlight">
+  <pre id="bigger-pockets-change-log" class="highlight">
+    <script>
+      getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BiggerPockets_P.pak', '#bigger-pockets-change-log');
+    </script>
+  </pre>
+</div>
 [Download](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
 
 ### Jekyll Themes
