@@ -11,6 +11,7 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ### Changelog
 <div class="highlight"><pre id="better-flashlights-changelog" class="highlight"></pre></div>
+[more...](https://github.com/hmason55/sod2-mods/commits/main/BetterFlashlights/500-BetterFlashlights_P.pak)
 
 ## Bigger Pockets
 <ul id="bigger-pockets-readme"></ul>
@@ -18,9 +19,10 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ### Changelog
 <div class="highlight"><pre id="bigger-pockets-changelog" class="highlight"></pre></div>
+[more...](https://github.com/hmason55/sod2-mods/commits/main/BiggerPockets/500-BiggerPockets_P.pak)
 
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BetterFlashlights/README.md', '#better-flashlights-readme');</script>
-<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BetterFlashlights_P.pak', '#better-flashlights-changelog');</script>
+<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BetterFlashlights/500-BetterFlashlights_P.pak', '#better-flashlights-changelog');</script>
 
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BiggerPockets/README.md', '#bigger-pockets-readme');</script>
-<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BiggerPockets_P.pak', '#bigger-pockets-changelog');</script>
+<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BiggerPockets/500-BiggerPockets_P.pak', '#bigger-pockets-changelog');</script>
