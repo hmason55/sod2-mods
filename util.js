@@ -12,6 +12,7 @@ function getCommitHistory(url, block) {
 
 function getFileContent(url, block) {
 	$.get(url, function(data) {
-		$(block).html(data.replace('- ', '<li>').replace('\r\n', '</li>'));
+		data = data.replace("- ", "<li>").replace("\r\n", "</li>") + "</li>";
+		$(block).html(data);
 	});
 }
