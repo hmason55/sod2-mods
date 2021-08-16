@@ -1,3 +1,5 @@
+<script src="util.js"/>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hmason55/sod2-mods/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
