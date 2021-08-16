@@ -4,7 +4,7 @@ function getCommitHistory(url, block) {
 		for(var node in data) {
 			var date = moment(data[node]["commit"]["committer"]["date"]).fromNow();
 			var message = data[node]["commit"]["message"];
-			html += message + "<br/>" + date + "<br/><br/>";
+			text += message + "<br/>" + date + "<br/><br/>";
 		}
 		$(block).html(text);
 	});
@@ -12,7 +12,6 @@ function getCommitHistory(url, block) {
 
 function getFileContent(url, block) {
 	$.get(url, function(data) {
-		data = data.replace("- ", "<li>").replace("\r\n", "</li>") + "</li>";
-		$(block).html(data);
+		$(block).html(data.replace("- ", "<li>").replace("\r\n", "</li>") + "</li>");
 	});
 }
