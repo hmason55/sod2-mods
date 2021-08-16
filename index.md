@@ -18,6 +18,16 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ---
 
+## Better Vehicles
+<ul id="better-vehicles-readme"></ul>
+[**Download Better Vehicles**](https://github.com/hmason55/sod2-mods/raw/main/BetterVehicles/500-BetterVehicles_P.pak)
+
+### Changelog
+<div class="highlight"><pre id="better-vehicles-changelog" class="highlight"></pre></div>
+[more...](https://github.com/hmason55/sod2-mods/commits/main/BetterVehicles/500-BetterVehicles.pak)
+
+---
+
 ## Bigger Pockets
 <ul id="bigger-pockets-readme"></ul>
 [**Download Bigger Pockets**](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
@@ -28,8 +38,12 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ---
 
+
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BetterFlashlights/README.md', '#better-flashlights-readme');</script>
 <script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BetterFlashlights/500-BetterFlashlights_P.pak', '#better-flashlights-changelog');</script>
+
+<script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BetterVehicles/README.md', '#better-vehicles-readme');</script>
+<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BetterVehicles/500-BetterVehicles.pak', '#better-vehicles-changelog');</script>
 
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BiggerPockets/README.md', '#bigger-pockets-readme');</script>
 <script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BiggerPockets/500-BiggerPockets_P.pak', '#bigger-pockets-changelog');</script>
