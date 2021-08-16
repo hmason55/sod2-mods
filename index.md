@@ -8,7 +8,7 @@
 <div class="highlight">
   <pre id="better-flashlights-change-log" class="highlight">
     <script>
-      getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BetterFlashlights_P.pak?per_page=5', '#better-flashlights-change-log');
+      getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BetterFlashlights_P.pak', '#better-flashlights-change-log');
     </script>
   </pre>
 </div>
@@ -18,7 +18,7 @@
 <div class="highlight">
   <pre id="bigger-pockets-change-log" class="highlight">
     <script>
-      getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BiggerPockets_P.pak?per_page=5', '#bigger-pockets-change-log');
+      getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?500-BiggerPockets_P.pak', '#bigger-pockets-change-log');
     </script>
   </pre>
 </div>
