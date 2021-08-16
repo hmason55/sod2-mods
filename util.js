@@ -1,5 +1,4 @@
-function getCommitHistory(url, block)
-{
+function getCommitHistory(url, block) {
 	$.getJSON(url, function(data) {
 		var text = "";
 		for(var node in data) {
@@ -7,6 +6,12 @@ function getCommitHistory(url, block)
 			var message = data[node]["commit"]["message"];
 			html += message + "<br/>" + date + "<br/><br/>";
 		}
-		$(div).html(text);
+		$(block).html(text);
+	});
+}
+
+function getFileContent(url, block) {
+	$.get(url, function(data) {
+		$(block).html(data);
 	});
 }
