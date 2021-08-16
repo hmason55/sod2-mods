@@ -6,6 +6,15 @@
 # Overview
 This is a collection of mods I've created for State of Decay 2. All of the mods listed are modular and compatible with each other unless explicitly stated.
 
+### Mods
+- [Better Flashlights](#better-flashlights)
+- [Better Vehicles](#better-vehicles)
+- [Bigger Enclaves](#bigger-enclaves)
+- [Bigger Hordes](#bigger-hordes)
+- [Bigger Pockets](#bigger-pockets)
+- [Improved Stacking](#improved-stacking)
+- [Minimal Base Requirements](#minimal-base-requirements)
+
 ---
 
 ## Better Flashlights
@@ -20,17 +29,17 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ## Better Vehicles
 <ul id="better-vehicles-readme"></ul>
-[**Download Better Vehicles**](https://github.com/hmason55/sod2-mods/raw/main/BetterVehicles/500-BetterVehicles_P.pak)
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/BetterVehicles/500-BetterVehicles_P.pak)
 
 ### Changelog
 <div class="highlight"><pre id="better-vehicles-changelog" class="highlight"></pre></div>
-[more...](https://github.com/hmason55/sod2-mods/commits/main/BetterVehicles/500-BetterVehicles.pak)
+[more...](https://github.com/hmason55/sod2-mods/commits/main/BetterVehicles/500-BetterVehicles_P.pak)
 
 ---
 
 ## Bigger Enclaves
 <ul id="bigger-enclaves-readme"></ul>
-[**Download Bigger Enclaves**](https://github.com/hmason55/sod2-mods/raw/main/BiggerEnclaves/500-BiggerEnclaves_P.pak)
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/BiggerEnclaves/500-BiggerEnclaves_P.pak)
 
 ### Changelog
 <div class="highlight"><pre id="bigger-enclaves-changelog" class="highlight"></pre></div>
@@ -38,9 +47,15 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ---
 
+## Bigger Hordes
+
+Coming soon!
+
+---
+
 ## Bigger Pockets
 <ul id="bigger-pockets-readme"></ul>
-[**Download Bigger Pockets**](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
 
 ### Changelog
 <div class="highlight"><pre id="bigger-pockets-changelog" class="highlight"></pre></div>
@@ -48,6 +63,25 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ---
 
+## Improved Stacking
+<ul id="improved-stacking-readme"></ul>
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/ImprovedStacking/500-ImprovedStacking_P.pak)
+
+### Changelog
+<div class="highlight"><pre id="improved-stacking-changelog" class="highlight"></pre></div>
+[more...](https://github.com/hmason55/sod2-mods/commits/main/ImprovedStacking/500-ImprovedStacking_P.pak)
+
+---
+
+## Minimal Base Requirements
+<ul id="minimal-base-requirements-readme"></ul>
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/MinimalBaseRequirements/500-MinimalBaseRequirements_P.pak)
+
+### Changelog
+<div class="highlight"><pre id="minimal-base-requirements-changelog" class="highlight"></pre></div>
+[more...](https://github.com/hmason55/sod2-mods/commits/main/MinimalBaseRequirements/500-MinimalBaseRequirements_P.pak)
+
+---
 
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BetterFlashlights/README.md', '#better-flashlights-readme');</script>
 <script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BetterFlashlights/500-BetterFlashlights_P.pak', '#better-flashlights-changelog');</script>
@@ -60,3 +94,9 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 <script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/BiggerPockets/README.md', '#bigger-pockets-readme');</script>
 <script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/BiggerPockets/500-BiggerPockets_P.pak', '#bigger-pockets-changelog');</script>
+
+<script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/ImprovedStacking/README.md', '#improved-stacking-readme');</script>
+<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/ImprovedStacking/500-ImprovedStacking_P.pak', '#improved-stacking-changelog');</script>
+
+<script>getFileContent('https://raw.githubusercontent.com/hmason55/sod2-mods/main/MinimalBaseRequirements/README.md', '#minimal-base-requirements-readme');</script>
+<script>getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=/MinimalBaseRequirements/500-MinimalBaseRequirements_P.pak', '#minimal-base-requirements-changelog');</script>
