@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 ## Better Pockets
+<script>
+  getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=README.md');
+</script>
 [Download](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
 
 ### Jekyll Themes
