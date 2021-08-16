@@ -31,8 +31,9 @@ Syntax highlighted code block
 ```
 
 ## Better Pockets
+<div id="better_pockets"></div>
 <script>
-  getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=README.md');
+  getCommitHistory('https://api.github.com/repos/hmason55/sod2-mods/commits?path=README.md', '#better_pockets');
 </script>
 [Download](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
 
