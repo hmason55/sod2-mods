@@ -1,0 +1,1 @@
+- Default pocket slots increased from 2 to 4.

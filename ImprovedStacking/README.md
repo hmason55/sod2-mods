@@ -1,0 +1,4 @@
+- Vehicle refuel stack increased from 1 to 3.
+- Vehicle repair kit stack increased from 1 to 3.
+- Vehicle advanced repair kit stack increased from 1 to 3.
+- Parts stack increased from 99 to 999.

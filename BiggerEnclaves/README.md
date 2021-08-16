@@ -1,0 +1,3 @@
+- Enclaves no longer disaband after recruiting a member.
+- Enclave minimum size increased from 3 to 4.
+- Enclave maximum size increased from 3 to 6.

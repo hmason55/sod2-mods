@@ -1,0 +1,2 @@
+- All vehicle inventory space multiplied by 3.
+- Vehicle headlight cone angle increased from 35 to 70 degrees.

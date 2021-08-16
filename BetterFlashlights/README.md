@@ -1,0 +1,1 @@
+- Increased flashlight attenuation radius from 1500 to 4500.

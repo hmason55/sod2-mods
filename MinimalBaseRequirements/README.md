@@ -1,0 +1,1 @@
+- Community size requirement reduced to 1 for claiming any base.
