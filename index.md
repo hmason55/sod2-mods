@@ -19,7 +19,7 @@ This is a collection of mods I've created for State of Decay 2. All of the mods 
 
 ## Better Flashlights
 <ul id="better-flashlights-readme"></ul>
-[**Download Better Flashlights**](https://github.com/hmason55/sod2-mods/raw/main/BetterFlashlights/500-BetterFlashlights_P.pak)
+[**Download**](https://github.com/hmason55/sod2-mods/raw/main/BetterFlashlights/500-BetterFlashlights_P.pak)
 
 ### Changelog
 <div class="highlight"><pre id="better-flashlights-changelog" class="highlight"></pre></div>
