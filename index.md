@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ## Better Pockets
-<script src="https://gist-it.appspot.com/github/hmason55/sod2-mods/blob/main/README.md"></script>
+<script src="https://gist-it.appspot.com/github/hmason55/sod2-mods/blob/main/README.md?footer=no"></script>
 [Download](https://github.com/hmason55/sod2-mods/raw/main/BiggerPockets/500-BiggerPockets_P.pak)
 
 ### Jekyll Themes
