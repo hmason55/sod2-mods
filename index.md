@@ -1,4 +1,4 @@
-<script src="util.js"/>
+<script src="util.js"></script>
 
 ## Welcome to GitHub Pages
 
